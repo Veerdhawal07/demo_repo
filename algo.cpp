@@ -7,6 +7,8 @@ void solve()
 {
     int n;
     cin >> n;
+
+    vi arr(n);
 }
 int main()
 {
