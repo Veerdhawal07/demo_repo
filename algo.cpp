@@ -8,7 +8,11 @@ void solve()
     int n;
     cin >> n;
 
-    for(int i = 0;i<n;i++);
+    // Second branch: Process with while loop
+    while(n > 0) {
+        cout << "Current: " << n << endl;
+        n--;
+    }
 }
 int main()
 {
