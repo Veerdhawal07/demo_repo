@@ -9,6 +9,8 @@ void solve()
     cin >> n;
 
     vi arr(n);
+
+    for(int i = 0;i<n;i++);
 }
 int main()
 {
